@@ -9,7 +9,7 @@ public class wyk {
 			System.out.println("你还是个人");
 
 		} else {
-			System.out.println("你是什么怪物");
+			System.out.println("你是什么怪物!!!!");
 		}
 
 	}
